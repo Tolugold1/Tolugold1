@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how a web application works
 - 📫 How to reach me: twitter@https://twitter.com/Tolugold6, WhatsApp/📲 09063530888
 - 😄 Pronouns: I am a he/him
-- ⚡ Fun fact: It always fun to work on a full-fledge dynamic websites.
+- ⚡ Fun fact: It's always fun to work on a full-fledge dynamic websites.
 
