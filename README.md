@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=tolugold1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolugold1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
