@@ -6,7 +6,7 @@ I'm a fullstack enthusiast who find delight in web technologies.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a full-time student at alx 🏫
+- 🔭 I’m currently a student at alx 🏫
 - 🌱 I’m currently learning software engineering
 - 👯 I’m looking to collaborate on real dynamic websites projects.
 - 🤔 I’m looking forward to get a fully funded web dev project.
