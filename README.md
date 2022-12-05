@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tolugold1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
