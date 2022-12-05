@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I am a he/him
 - ⚡ Fun fact: It's always fun to work on a full-fledge dynamic websites.
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
