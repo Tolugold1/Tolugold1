@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on real dynamic websites projects.
 - 🤔 I’m looking forward to get a fully funded web dev project.
 - 💬 Ask me about how a web application works
-- 📫 How to reach me: twitter@https://twitter.com/Tolugold6, WhatsApp/📲 +2439063530888
+- 📫 How to reach me: twitter@https://twitter.com/Tolugold6, WhatsApp/📲 +2349063530888
 - 😄 Pronouns: I am a he/him
 - ⚡ Fun fact: It's always fun to work on a full-fledge dynamic websites.
 
